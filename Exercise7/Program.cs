@@ -1,10 +1,10 @@
-﻿namespace Exercise6;
+﻿namespace Exercise7;
 
 class Program
 {
     static void Main(string[] args)
     {
         Exercise ex = new Exercise();
-        ex.SimpleCalculator();
+        ex.PrintNumbers();
     }
 }
